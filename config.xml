@@ -12,4 +12,5 @@
     </author>
     <preference name="phonegap-version" value="3.7.0" />
     <gap:platform name="android" />
+    <gap:platform name="ios" />
 </widget>
