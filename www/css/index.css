@@ -1,8 +1,26 @@
+html, body { 
+    height: 100%;
+}
+
 .header {
-    height: 10%;
     width: 100%;
+    height: 10%;
 }
 
 .video-list {
+    width: 90%;
+    height: 100%;
     list-style: none;
+    text-align: center;
+}
+
+.video-list > li {
+    width: 100%;
+    height: 30%;
+    margin: 10px;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
 }
