@@ -5,13 +5,11 @@
 		xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Inspower</name>
     <description>
-        Inspower videos app test
+        Inspower videos app test.
     </description>
     <author email="ndelgado@devartis.com" href="http://www.devartis.com">
         Devartis
     </author>
-    <content src="index.html" />
-    <access origin="*" />
     <preference name="phonegap-version" value="3.7.0" />
     <gap:platform name="android" />
 </widget>
